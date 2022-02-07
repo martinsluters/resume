@@ -1,0 +1,36 @@
+body {
+    font-family: "Helvetica", Arial, sans-serif;
+    color: #000;
+    font-size: 14px;
+    font-weight: 200;
+    line-height: 1.5;
+}
+
+a {
+	color: #579eda;
+}
+
+ul:first-of-type {
+	list-style-type: none;
+	margin: 0 0 10px 0;
+  	padding: 0;
+}
+
+table {
+	border-collapse: collapse;
+	margin-bottom: 20px;
+}
+
+table img {
+	width: 100px;
+	height: 100px;
+}
+
+table th {
+	font-weight: 100;
+	padding-right: 10px;
+}
+
+h2 {
+	margin-top: 30px;
+}
