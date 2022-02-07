@@ -1,0 +1,10 @@
+{
+    "name": "martinsluters/resume",
+    "authors": [
+        {
+            "name": "Martins Luters",
+            "email": "luters.martins@gmail.com"
+        }
+    ],
+    "require": {}
+}
