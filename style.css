@@ -16,6 +16,10 @@ ul:first-of-type {
   	padding: 0;
 }
 
+#development-related-skills + ul li:not(:last-child) {
+   margin-bottom: 10px;
+}
+
 table {
 	border-collapse: collapse;
 	margin-bottom: 20px;
@@ -33,4 +37,5 @@ table th {
 
 h2 {
 	margin-top: 30px;
+	margin-bottom: 15px;
 }
