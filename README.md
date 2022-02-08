@@ -19,9 +19,9 @@
 -   **Css | Sass | HTML** Sass preprocessor and BEM methodology to style HTML. Aware of nice relatively new technologies like Tailwind CSS making it's way up. Most actively used Foundation 6 but there have been others around like Gumby and Bootstrap.
 -   **Automation | Git hooks | CodeShip | GitHub Actions** Local development automation (linting, testing) followed by continuously integrating and deploying with cloud based CI/CD services. Running Unit and Integration tests, "sniffing" code and building a project on a cloud CI/CD service after pushing to a GitHub repository. All that right before a built project is deployed to WP Engine (Git Push and SSH) from a CI/CD and not forgetting to notify a Slack channel on failures.
 -   **WP Local Docker | wp-env | VVV** There have been many local development stacks, at the moment I am using a Docker based local development environment WP Local Docker.
--   **WP CLI** There is no day without it, from small helper commands to complex queries. Have created a couple a project specific commands extending core WP CLI functionality for experimenting purposes.Always looking for handy CLI commands that other vendors provide e.g. WooCommerce has it's `wp wc update` and there is no day without WP Engine's `wp page-cache flush`.
--   ♥ **TDD | Design Patterns | Design Principles** Practicing as much as possible with a given resources and studying whenever possible in spear time to develop my expertise.
--   **Mac or PC?** Mac, because it works.
+-   **WP CLI** There is no day without it, from small helper commands to complex queries. Have created a couple a project specific commands extending core WP CLI functionality for experimenting purposes. Always looking for handy CLI commands that vendors provide e.g. WooCommerce has it's `wp wc update` and there is no day without WP Engine's `wp page-cache flush`.
+-   ♥ **TDD | Design Patterns | Design Principles** Practicing as much as possible with a given resources and studying whenever possible in spear time to develop expertise.
+-   **Mac or PC?** Mac, because it works
 
 ## Professional Development Experience
 

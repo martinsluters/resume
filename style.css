@@ -8,6 +8,7 @@ body {
 
 a {
 	color: #579eda;
+	text-decoration: none;
 }
 
 ul:first-of-type {
