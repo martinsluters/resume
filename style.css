@@ -1,9 +1,9 @@
 body {
-    font-family: "Helvetica", Arial, sans-serif;
-    color: #000;
-    font-size: 14px;
-    font-weight: 200;
-    line-height: 1.5;
+	font-family: "Helvetica", Arial, sans-serif;
+	color: #000;
+	font-size: 14px;
+	font-weight: 200;
+	line-height: 1.5;
 }
 
 a {
@@ -14,11 +14,11 @@ a {
 ul:first-of-type {
 	list-style-type: none;
 	margin: 0 0 10px 0;
-  	padding: 0;
+	padding: 0;
 }
 
 #development-related-skills + ul li:not(:last-child) {
-   margin-bottom: 10px;
+	margin-bottom: 10px;
 }
 
 table {
