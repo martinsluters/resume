@@ -9,7 +9,6 @@
     "watch": "chokidar './*.(md|css|js|svg|jpg)' --initial=true -c 'npm run generate'"
   },
   "devDependencies": {
-    "gulp": "^4.0.2",
     "md-to-pdf": "^5.1.0",
     "chokidar-cli": "^3.0.0"
   }
