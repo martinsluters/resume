@@ -4,7 +4,7 @@
 |<img src="./qrcode.svg"> | scan to see a visual snapshot |
 |----|--|
 
--   Latvia (UTC+2)
+-   Location: Latvia (UTC+2)
 -   GitHub: https://github.com/martinsluters
 -   Email: luters.martins@gmail.com
 
@@ -50,7 +50,7 @@ Few key tasks done:
 **Freelancing**
 2008 to 2018
 
-Developed over 20 websites for clients using CodeIgniter, CakePHP or WordPress as a base of a website. During the early years also did some small (Macromedia) Adobe Flash ActionScript 2 coding tasks and made 360° virtual tours.
+Developed over 20 small websites including e-commerce for clients using CodeIgniter, CakePHP or WordPress as a base. During the early years of career did some small (Macromedia) Adobe Flash ActionScript 2 coding tasks and made 360° virtual tours.
 
 ## Education
 
