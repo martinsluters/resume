@@ -21,7 +21,7 @@
 -   **WP Local Docker | wp-env | VVV** There have been many local development stacks, at the moment I am using a Docker based local development environment WP Local Docker.
 -   **WP CLI** There is no day without it, from small helper commands to complex queries. Have created a couple a project specific commands extending core WP CLI functionality for experimenting purposes. Always looking for handy CLI commands that vendors provide e.g. WooCommerce has it's `wp wc update` and there is no day without WP Engine's `wp page-cache flush`.
 -   ♥ **TDD | Design Patterns | Design Principles** Practicing as much as possible with a given resources and studying whenever possible in spear time to develop expertise.
--   **Mac or PC?** Mac, because it works
+-   **Mac or PC?** Mac, because it works.
 
 ## Professional Development Experience
 
@@ -39,8 +39,8 @@ Few key tasks done:
 -   Performance improvements
 -   Integrated various APIs REST and SOAP
 -   Used and extended e-commerce solutions WooCommerce, GiveWP, integrated in membership plugins and custom built
--   Developed Shell and Python scripts to automate scheduled maintenance updates and critical vulnerability updates in WP Engine infrastructure using WP Engine API and WP CLI
--   Developed Python script to generate reports utilising WP Engine API
+-   Developed Shell and Python scripts to automate scheduled maintenance updates and critical vulnerability updates in WP Engine infrastructure using WP Engine's API and WP CLI
+-   Developed Python script to generate reports utilising WP Engine's API
 -   Supported and maintained client sites and in-house premium themes / plugins
 -   Managed projects
 -   Helped team in all aspects
