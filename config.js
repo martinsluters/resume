@@ -8,7 +8,7 @@ module.exports = {
 		margin: {
 			top: "15mm",
 			right: "26mm",
-			bottom: "18mm",
+			bottom: "10mm",
 			left: "26mm"
 		},
 		headerTemplate: " ",
