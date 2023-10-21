@@ -8,7 +8,7 @@
 -   GitHub: https://github.com/martinsluters
 -   Email: luters.martins@gmail.com
 
-**Results driven WordPress Engineer with 10+ years experience in industry. Working 100% remotely for the past 8 years. Proven success as a pedantic, punctual and reliable developer.**
+**Results driven WordPress Engineer with 12 years experience in industry. Working 100% remotely for the past 9 years. Proven success as a pedantic, punctual and reliable developer.**
 
 ## Development Related Skills
 
