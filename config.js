@@ -6,10 +6,10 @@ module.exports = {
 	stylesheet: ['style.css'],
 	pdf_options: {
 		margin: {
-			top: "15mm",
-			right: "26mm",
+			top: "5mm",
+			right: "12mm",
 			bottom: "10mm",
-			left: "26mm"
+			left: "12mm"
 		},
 		headerTemplate: " ",
 		footerTemplate: `
