@@ -1,19 +1,19 @@
-|<img src="./qrcode.svg"> | <table class="hero"><tbody><tr><td><h1>Martins Luters</h1></td></tr><tr><td>WordPress Engineer</td></tr><tbody></table> |
+|<img src="./qrcode.svg"> | <table class="hero"><tbody><tr><td><h1>Martins Luters</h1></td></tr><tr><td>PHP Developer</td></tr><tbody></table> |
 |----|--|
 
--   Location: Latvia (UTC+2)
+-   Location: Latvia, Valmiera (UTC+2)
 -   GitHub: https://github.com/martinsluters
 -   Email: luters.martins@gmail.com
 
-Based in Latvia, Europe, I am a seasoned WordPress Engineer with a proven track record in crafting solutions since 2012. I am deeply passionate about developing solutions that empower individuals and businesses to streamline their processes, enhance performance, and simplify operations. Over the past 9 years, I have thrived in a 100% remote work environment, leveraging my expertise to contribute to diverse projects.
+Based in Latvia, Europe, I am a Senior WordPress Engineer / PHP Developer with a proven track record in crafting solutions since 2012. I am deeply passionate about developing solutions that empower individuals and businesses to streamline their processes, enhance performance, and simplify operations. Over the past 10 years, I have thrived in a 100% remote work environment, leveraging my expertise to contribute to diverse projects.
 
-I actively engage with the WordPress community, regularly participating in meetups and WordCamps to stay abreast of the latest trends and innovations. Beyond the tech realm, I am a dedicated father and husband, cherishing moments with my dear family. My interests extend to action sports, particularly BMX racing, along with a love for reading, long walks, and embarking on new DIY projects.
+I actively engage with the PHP and WordPress community, regularly participating in meetups and conferences to stay abreast of the latest trends and innovations. Beyond the tech realm, I am a dedicated father and husband, cherishing moments with my dear family. My interests extend to action sports, particularly BMX racing, along with a love for reading, long walks, and embarking on new DIY projects.
 
-## Development Related Skills
+## Some of Development Related Skills
 
 **PHP:**
 - PHP (15+ years of experience)
-- WP PHPUnit | PHPUnit | WP_Mock | wp-browser (Codeception)
+- Pest | PHPUnit | WP PHPUnit | WP_Mock | wp-browser (Codeception)
 - PHP Composer | Packagist | WordPress Packagist
 - PHP_CodeSniffer | PHPStan
 - Continuously learning and adopting the latest PHP features.
@@ -24,8 +24,7 @@ I actively engage with the WordPress community, regularly participating in meetu
 - Build tools: Webpack | Parcel | Gulp
 
 **Template Engines:**
-- Twig | Timber
-- Successfully implemented experiments leading to production-ready software.
+- Twig + Timber | Blade
 
 **Frontend Technologies:**
 - CSS | Sass | HTML | BEM | Tailwind | Foundation 6
@@ -33,18 +32,15 @@ I actively engage with the WordPress community, regularly participating in meetu
 **Automation and CI/CD:**
 - Git hooks | CodeShip | GitHub Actions
 - CI/CD with cloud-based services, including Unit, Integration, and Acceptance tests.
-- Deployment to WP Engine with Git Push and SSH, Slack notifications on failures.
+- Build and deployment to WP Engine via Git Push and SSH
 
 **Containerization and local development:**
-- Docker | WP Local Docker | wp-env | VVV
+- Docker | Lando | WP Local Docker | wp-env | VVV | Laravel Sail
 - Proficient in creating and managing Docker-based local development environments.
-- Local development automation (linting, testing)
-
-**WordPress Command Line (WP CLI):**
-- Regular use for various tasks, creation of project-specific commands.
+- Local development automation (linting, testing, building, code-sniffing)
 
 **Continuous Learning:**
-- Embrace TDD (Test-Driven Development), Design Patterns, and Design Principles.
+- Embrace TDD, Design Patterns, and Design Principles.
 - Actively practice and study in spare time.
 
 **Operating System:**
@@ -52,8 +48,19 @@ I actively engage with the WordPress community, regularly participating in meetu
 
 ## Professional Development Experience
 
+**Angry Creative**
+Sweden (remote), Senior Developer, July, 2024 - present
+
+Continue to manage and develop projects for existing clients from AWESEM Ltd. following its acquisition, ensuring seamless service and maintaining strong client relationships.
+
+Embrace full stack development, taking on new technologies and methodologies as part of the larger, more diverse team.
+
+Adapted to working within a larger, fully remote team, collaborating effectively across different time zones, and transitioning to new remote collaboration tools like Jira, Confluence, GitLab, and Stack Overflow for Teams, building on my prior experience with similar tools.
+
+Enhance proficiency in React, that align with company’s broader strategic goals.
+
 **AWESEM Ltd.**
-London, Senior WordPress Engineer, 2011 - present
+London (UK) and remote, Senior WordPress Engineer, 2011 - June, 2024
 
 Engaged in comprehensive project lifecycle management encompassing project initiation, development, maintenance, and support, as well as team education. Led client interactions from initial discussions to project deployment, launch, and ongoing enhancements, addressing diverse project sizes and complexities.
 
