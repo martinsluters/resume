@@ -1,7 +1,7 @@
 |<img src="./qrcode.svg"> | <table class="hero"><tbody><tr><td><h1>Martins Luters</h1></td></tr><tr><td>PHP Developer</td></tr><tbody></table> |
 |----|--|
 
--   Location: Latvia, Valmiera (UTC+2)
+-   Location: Latvia, Valmiera (UTC+2/UTC+3)
 -   GitHub: https://github.com/martinsluters
 -   Email: luters.martins@gmail.com
 
@@ -47,6 +47,25 @@ I actively engage with the PHP and WordPress community, regularly participating 
 - Mac user for its reliability and efficiency.
 
 ## Professional Development Experience
+
+**Adaptive Media SIA**
+Valmiera (Latvia), outsourced PHP developer, November, 2024 - February, 2025
+
+Led the development of an MVP capable of processing millions of data records while using and respecting multiple external API rate limits and constraints.
+Designed and implemented a robust solution encompassing backend data fetching and posting via external APIs, as well as efficient, secure frontend data presentation.
+
+Key technologies used: Laravel, Laravel Horizon, Redis, Varnish.
+
+**Angry Creative**
+Sweden (remote), Senior Developer, July, 2024 - October, 2025
+
+Continue to manage and develop projects for existing clients from AWESEM Ltd. following its acquisition, ensuring seamless service and maintaining strong client relationships.
+
+Embrace full stack development, taking on new technologies and methodologies as part of the larger, more diverse team.
+
+Adapted to working within a larger, fully remote team, collaborating effectively across different time zones, and transitioning to new remote collaboration tools like Jira, Confluence, GitLab, and Stack Overflow for Teams, building on my prior experience with similar tools.
+
+Enhance proficiency in React, that align with company’s broader strategic goals.
 
 **Angry Creative**
 Sweden (remote), Senior Developer, July, 2024 - present
