@@ -5,7 +5,7 @@
 -   GitHub: https://github.com/martinsluters
 -   Email: luters.martins@gmail.com
 
-Based in Latvia, Europe, I am a Senior WordPress Engineer / PHP Developer with a proven track record in crafting solutions since 2012. I am deeply passionate about developing solutions that empower individuals and businesses to streamline their processes, enhance performance, and simplify operations. Over the past 10 years, I have thrived in a 100% remote work environment, leveraging my expertise to contribute to diverse projects.
+Based in Latvia, Europe, I am a Senior Software Engineer / PHP Developer with a proven track record in crafting solutions since 2012. I am deeply passionate about developing solutions that empower individuals and businesses to streamline their processes, enhance performance, and simplify operations. Over the past 10 years, I have thrived in a 100% remote work environment, leveraging my expertise to contribute to diverse projects.
 
 I actively engage with the PHP and WordPress community, regularly participating in meetups and conferences to stay abreast of the latest trends and innovations. Beyond the tech realm, I am a dedicated father and husband, cherishing moments with my dear family. My interests extend to action sports, particularly BMX racing, along with a love for reading, long walks, and embarking on new DIY projects.
 
@@ -47,6 +47,20 @@ I actively engage with the PHP and WordPress community, regularly participating 
 - Mac user for its reliability and efficiency.
 
 ## Professional Development Experience
+
+**Adaptive Media SIA**
+Valmiera (Latvia), full stack Java developer, September, 2025 - April, 2026
+
+Driven, analysed, and monitored performance of various marketing strategies at scale. Several technical solutions helped the marketing and ads teams achieve better marketing performance results. Continuously improving and adapting to industry changes in-house automation and cms tools.
+
+Technologies worked with are VueJS, TS, Java (Spring Boot), RabbitMQ, Apache Camel and others.
+
+**ZAAO SIA**
+Valmiera (Latvia), Senior PHP/Laravel developer, May 2025 - September, 2025
+
+Developed several modules of the new version of the in-house CRM tool, as well as developed migration scripts and flow from the old to the new system. 
+
+Technologies used: Laravel
 
 **Adaptive Media SIA**
 Valmiera (Latvia), outsourced PHP developer, November, 2024 - February, 2025
